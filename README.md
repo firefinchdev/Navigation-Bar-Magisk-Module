@@ -19,12 +19,10 @@ v1.0 - Initial Release
 ## Instructions
 TO Enable:
 
-1. Download and flash the module.
+1. [Download](https://github.com/firefinchdev/Navigation-Bar-Magisk-Module/releases) and flash the module.
 2. Reboot
 
 TO Disable:
 
 1. Disable Module from Magisk Manager.
 2. Reboot
-OR
-3.Download and flash this via TWRP
