@@ -4,4 +4,3 @@ version=v1.0
 versionCode=000100000
 author=Firefinchdev
 description=Enables On Screen Navigation bars for Android 9.0/10 AOSP like roms.
-minMagisk=1671
