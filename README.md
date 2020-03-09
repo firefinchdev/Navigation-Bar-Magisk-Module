@@ -10,6 +10,7 @@ Disable any other module which also conflicts with the build.prop
 Flash at your own risk we are not responsible for any bricked devices
 
 ## Changelog
+v1.1 - Updated to new Magisk Module format
 v1.0 - Initial Release
 
 ## Requirements
